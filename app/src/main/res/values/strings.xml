@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guramedia</string>
+    
+    <string-array name="bookType">
+
+        <item>Majalah</item>
+        <item>Novel</item>
+
+    </string-array>
+</resources>
